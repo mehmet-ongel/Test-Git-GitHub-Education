@@ -1,3 +1,5 @@
 Proje Oluşturuldu.
 Fakat henüz bizimle paylaşılmadı.
 Paylaşım yapıldı. Paylaşım henüz bize ulaşmadı.
+
+Kullanıcı arayüzü yenilendi.
